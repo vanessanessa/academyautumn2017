@@ -18,6 +18,9 @@ header {
     transform: scale(1);
   }
 }
+#filch p + p {
+  font-style: italic;
+}
 h1,
 h2,
 p,
